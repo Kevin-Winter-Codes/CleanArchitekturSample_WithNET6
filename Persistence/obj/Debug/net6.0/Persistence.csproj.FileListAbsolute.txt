@@ -1,0 +1,17 @@
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache

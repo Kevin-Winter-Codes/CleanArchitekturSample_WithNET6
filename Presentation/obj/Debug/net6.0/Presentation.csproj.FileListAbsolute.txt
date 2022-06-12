@@ -1,0 +1,17 @@
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\bin\Debug\net6.0\Presentation.deps.json
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\bin\Debug\net6.0\Presentation.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\bin\Debug\net6.0\Presentation.pdb
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\bin\Debug\net6.0\Application.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\bin\Debug\net6.0\Domain.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\bin\Debug\net6.0\Application.pdb
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\bin\Debug\net6.0\Domain.pdb
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.csproj.AssemblyReference.cache
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfoInputs.cache
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.csproj.CopyComplete
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\refint\Presentation.dll
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\Presentation.pdb
+C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Presentation\obj\Debug\net6.0\ref\Presentation.dll
