@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Application.Movies.Commands.CreateMovie
 {
-    internal sealed class CreateMovieCommandHandler : ICommandHandler<CreateMovieCommand, MovieResponse>
+    public sealed class CreateMovieCommandHandler : ICommandHandler<CreateMovieCommand, MovieResponse>
     {
         private readonly IMovieRepository _movieRepository;
         private readonly IUnitOfWork _unitOfWork;

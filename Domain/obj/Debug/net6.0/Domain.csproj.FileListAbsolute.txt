@@ -10,3 +10,15 @@ C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Domain\obj\Debug\net6.0\Domain.dll
 C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Versuchslabor\WebAPI\CQRSWithMediatR2\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\bin\Debug\net6.0\Domain.dll
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\bin\Debug\net6.0\Domain.pdb
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\Domain.dll
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\Domain.pdb
+C:\dev\Schulungs_Eval\CleanArchitekturSample_WithNET6\Domain\obj\Debug\net6.0\ref\Domain.dll

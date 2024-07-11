@@ -7,7 +7,7 @@ using MediatR;
 
 namespace Application.Movies.Commands.UpdateMovie
 {
-    internal sealed class UpdateMovieCommandHandler : ICommandHandler<UpdateMovieCommand, Unit>
+    public sealed class UpdateMovieCommandHandler : ICommandHandler<UpdateMovieCommand, Unit>
     {
         private readonly IMovieRepository _movieRepository;
         private readonly IUnitOfWork _unitOfWork;

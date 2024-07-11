@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VlBTI3du5lncjDhxP0K/D1B6ubwgNOfZT15AfyLlM0XvgfwzOLywRfmnf3H63x/lTnxHq4vnqtyxKB5Xon+aWw==",
+  "dgSpecHash": "z3lZlSl5nF4=",
   "success": true,
-  "projectFilePath": "C:\\Versuchslabor\\WebAPI\\CQRSWithMediatR2\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\dev\\Schulungs_Eval\\CleanArchitekturSample_WithNET6\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -40,11 +40,6 @@ builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBeh
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 
-
-
-
-
-
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
@@ -53,9 +48,6 @@ using (var scope = app.Services.CreateScope())
 
     await dbContext.Database.MigrateAsync();
 }
-
-    
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
